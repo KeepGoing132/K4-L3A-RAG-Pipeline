@@ -1,0 +1,99 @@
+# KÊ KHAI THUẾ: Những lưu ý quan trọng HỘ KINH DOANH cần nhớ
+
+**Source:** https://xaydungchinhsach.chinhphu.vn/luu-y-chinh-trong-ky-khai-thue-quy-i-2026-119260312174235595.htm
+
+**Crawled:** 2026-09-20T16:48:47
+
+---
+
+Cục Thuế lưu ý nhiều nội dung quan trọng đối với hộ kinh doanh trong kỳ khai thuế Quý I/2026 về ngưỡng doanh thu không chịu thuế; phương pháp xác định thuế giá trị gia tăng, thuế thu nhập cá nhân; cách tính thuế với cá nhân cho thuê bất động sản...
+
+## Đồng hành cùng hộ kinh doanh kê khai thuế
+
+Tại hội thảo “Giải pháp giúp hộ kinh doanh kê khai thuế đúng, an tâm tuân thủ, phát triển bền vững” được tổ chức tại Hà Nội và trực tuyến tới 34 tỉnh, thành, bà Lê Thị Chinh, Phó trưởng Ban Nghiệp vụ thuế, Cục Thuế (Bộ Tài chính) chia sẻ tham luận về chủ đề "Chính sách thuế và sự đồng hành của cơ quan thuế trong kỳ kê khai đầu tiên của hộ kinh doanh".
+
+Trong đó, đại diện Cục Thuế đã làm rõ bối cảnh chiến dịch cao điểm D15 - "15 ngày đồng hành cùng hộ kinh doanh trước kỳ kê khai thuế quý I/2026" - cũng như quan điểm, hành động của ngành thuế hỗ trợ hộ kinh doanh trong giai đoạn đầu tiên của kỳ kê khai năm 2026.
+
+Làm rõ những nội dung chính của Nghị định 68/2026/NĐ-CP của Chính phủ và Thông tư 152 của Bộ Tài chính vừa mới ban hành về chính sách và quản lý thuế đối với hộ kinh doanh, bà Lê Thị Chinh lưu ý các hộ kinh doanh những điểm mới khi thực hiện các văn bản này.
+
+## Lưu ý về ngưỡng doanh thu không chịu thuế
+
+Thứ nhất là ngưỡng doanh thu không chịu thuế. Theo đó, hộ kinh doanh không phải nộp thuế giá trị gia tăng và thuế thu nhập cá nhân khi có mức doanh thu từ 500 triệu đồng trở xuống.
+
+### 2 phương pháp xác định thuế giá trị gia tăng, thuế thu nhập cá nhân với hộ kinh doanh có doanh thu trên 500 triệu đồng
+
+Thứ hai là phương pháp xác định số thuế giá trị gia tăng và thu nhập cá nhân. Đối với hộ, cá nhân kinh doanh có doanh thu trên 500 triệu đồng thì thuế giá trị gia tăng và thuế thu nhập cá nhân được xác định như sau:
+
+Thuế giá trị gia tăng (GTGT): Được tính theo phương pháp trực tiếp trên doanh thu. Cụ thể, thuế GTGT phải nộp sẽ bằng doanh thu nhân với tỉ lệ phần trăm về thuế GTGT. Thuế thu nhập cá nhân (TNCN): Hộ, cá nhân kinh doanh được xác định theo một trong hai phương pháp sau:
+
+i) Phương pháp thuế suất nhân với doanh thu tính thuế: Áp dụng đối với hộ, cá nhân kinh doanh có doanh thu năm trên 500 triệu đồng đến dưới 3 tỷ đồng nếu lựa chọn phương pháp này. Như vậy, thuế TNCN phải nộp sẽ bằng doanh thu tính thuế (tức là doanh thu trừ 500 triệu đồng - ngưỡng không chịu thuế) nhân với thuế suất thuế TNCN.
+
+ii) Phương pháp thu nhập tính thuế nhân với thuế suất: Đây là phương pháp có những ưu ái, áp dụng cho tất cả các hộ kinh doanh có doanh thu năm trên 500 triệu đồng, trừ trường hợp nộp thuế theo phương pháp thuế suất nhân với doanh thu tính thuế. Thu nhập tính thuế sẽ bằng doanh thu trừ đi chi phí hợp lý, hợp lệ… Thuế TNCN phải nộp sẽ bằng thu nhập tính thuế nhân với thuế suất.
+
+## Cách tính thuế đối với cá nhân cho thuê bất động sản
+
+Đối với cá nhân cho thuê bất động sản sẽ có cách tính thuế riêng. Theo đó, thuế GTGT phải nộp sẽ bằng doanh thu nhân với 5% nếu trên ngưỡng. Và thuế TNCN phải nộp bằng doanh thu trừ 500 triệu đồng nhân với 5%.
+
+Trường hợp có nhiều bất động sản cho thuê, được trừ 500 triệu đồng đối với một hoặc một số hợp đồng cho thuê do cá nhân tự lựa chọn và tổng mức được trừ cho tất cả các hợp đồng không quá 500 triệu đồng.
+
+Nội dung thứ ba là sử dụng hóa đơn điện tử. Hộ kinh doanh, cá nhân kinh doanh có doanh thu tính thuế giá trị gia tăng hằng năm từ 1 tỷ đồng trở lên thì phải áp dụng hóa đơn điện tử có mã của cơ quan thuế hoặc hóa đơn điện tử khởi tạo từ máy tính tiền có kết nối dữ liệu với cơ quan thuế theo quy định tại khoản 8 Điều 1 Nghị định 123.
+
+### Hướng dẫn sử dụng hóa đơn điện tử với hộ cá nhân có nhiều điểm kinh doanh
+
+Trường hợp hộ cá nhân có nhiều địa điểm kinh doanh thì sử dụng mã số thuế của hộ, cá nhân kinh doanh cho tất cả các địa điểm này và phải ghi địa chỉ của từng địa điểm kinh doanh trên hóa đơn. Nội dung này sẽ liên quan đến việc ra tờ khai tự động gợi ý.
+
+Như vậy chúng ta sẽ sử dụng một mã số thuế cho tất cả các địa điểm nhưng ghi rõ từng địa điểm kinh doanh trên hóa đơn.
+
+Trường hợp hộ, cá nhân kinh doanh sử dụng hóa đơn có mã của cơ quan thuế, hóa đơn khởi tạo từ máy tính tiền có kết nối dữ liệu với cơ quan thuế thì hệ thống thông tin quản lý thuế sẽ tự động tạo lập tờ khai, gợi ý để hỗ trợ cho hộ, cá nhân kinh doanh về việc khai tính thuế giá trị gia tăng, thuế thu nhập cá nhân trên cơ sở dữ liệu hóa đơn điện tử, cơ sở dữ liệu quản lý thuế và nhiều nguồn dữ liệu khác mà cơ quan thuế có được từ các cơ quan nhà nước, các tổ chức và cá nhân cung cấp.
+
+Thứ tư là nghĩa vụ khai thuế. Khai thuế giá trị gia tăng và thu nhập cá nhân đối với hộ, cá nhân kinh doanh.
+
+## Quy định thời gian khai thuế
+
+Trường hợp hộ, cá nhân kinh doanh tự xác định có mức doanh thu năm từ hoạt động sản xuất kinh doanh hàng hóa, dịch vụ từ 500 triệu đồng trở xuống (tức là thuộc ngưỡng không chịu thuế) thì hộ, cá nhân kinh doanh thông báo doanh thu thực hiện phát sinh trong năm với cơ quan thuế chậm nhất là ngày 31/1 năm dương lịch tiếp theo.
+
+Trường hợp hộ, cá nhân kinh doanh có doanh thu năm trên 500 triệu đồng thì khai và nộp thuế giá trị gia tăng, cụ thể: Trường hợp có doanh thu năm từ 50 tỷ đồng trở xuống thì thực hiện khai thuế, nộp thuế giá trị gia tăng theo quý. Trường hợp có doanh thu năm trên 50 tỷ đồng, thực hiện khai thuế, nộp thuế giá trị gia tăng theo tháng. Khai thuế, nộp thuế thu nhập cá nhân: Hộ kinh doanh, cá nhân sẽ lựa chọn nộp thuế một trong hai phương pháp ở trên.
+
+Nếu như phương pháp thuế suất nhân với doanh thu tính thuế thì thực hiện khai, nộp thuế cá nhân theo quý sẽ cùng kê khai với hạn nộp giá trị gia tăng. Đây là một điểm rất thuận lợi cho người nộp thuế, nộp cùng một thời điểm của các tờ khai thuế trên cùng một mẫu.
+
+Hộ, cá nhân kinh doanh thuộc đối tượng nộp thuế theo phương pháp thu nhập tính thuế nhân với thuế suất trình bày ở trên sẽ thực hiện tạm nộp thuế thu nhập cá nhân theo tháng, quý trên cùng hồ sơ khai thuế giá trị gia tăng.
+
+Về trường hợp hộ, cá nhân mới ra kinh doanh, nếu bắt đầu hoạt động sản xuất kinh doanh từ 6 tháng đầu năm và có doanh thu thực tế từ 500 triệu đồng trở xuống thì thực hiện thông báo doanh thu phát sinh từ khi bắt đầu hoạt động sản xuất kinh doanh đến hết ngày 30/6 vào hạn là 31/7 và thông báo doanh thu thực tế trong 6 tháng cuối năm chậm nhất là ngày 31/1 của năm dương lịch tiếp theo.
+
+Trường hợp hộ, cá nhân bắt đầu hoạt động sản xuất kinh doanh vào 6 tháng cuối năm, có doanh thu thực tế từ 500 triệu đồng trở xuống thì thực hiện thông báo chậm nhất là ngày 31/1 của năm dương lịch tiếp theo.
+
+Hộ, cá nhân kinh doanh mới bắt đầu hoạt động sản xuất kinh doanh khi có doanh thu lũy kế trên 500 triệu đồng (thuộc ngưỡng chịu thuế), thì thực hiện khai thuế theo quý theo quy định tại Điều 10 Nghị định kể từ quý phát sinh có doanh thu trên 500 triệu đồng.
+
+Về khai thuế đối với bất động sản, trường hợp cá nhân trực tiếp khai thuế đối với hoạt động cho thuê bất động sản thì được lựa chọn khai thuế hai lần trong năm hoặc một lần.
+
+Trường hợp khai thuế hai lần trong năm tính thuế thì hạn như vừa trình bày ở trên, là 31/7 của năm tính thuế hoặc chậm nhất là 31/1 của năm tiếp theo. Trường hợp khai một lần thì chỉ khai một lần vào 31/1 của năm dương lịch tiếp theo.
+
+Cá nhân có hoạt động cho thuê bất động sản thực hiện khai thuế giá trị gia tăng, thuế thu nhập cá nhân và gửi hồ sơ khai thuế cho cơ quan thuế nơi có bất động sản cho thuê.
+
+Cá nhân cho cá nhân thuê thì phải trực tiếp khai thuế. Trường hợp tổ chức thuê bất động sản mà có thỏa thuận bên đi thuê là người khai thay thì tổ chức thực hiện khai thuế theo quý và nộp thay cho cá nhân, thời hạn được xác định theo kỳ thanh toán trên bất động sản.
+
+## Các lưu ý trong kỳ khai thuế đầu tiên
+
+Phó trưởng Ban Nghiệp vụ thuế Lê Thị Chinh cũng nhấn mạnh một số lưu ý trong kỳ kê khai đầu tiên để hỗ trợ hộ, cá nhân kinh doanh có thể tuân thủ một cách dễ dàng và thuận lợi nhất. Trường hợp khai thuế theo tháng, hồ sơ khai thuế của các tháng 1, 2 và 3 năm 2026 thì thực hiện chậm nhất là ngày 30/4/2026. Đây là việc lùi thời hạn để tạo điều kiện cho hộ kinh doanh có thể trải nghiệm rồi nghiên cứu và thực hiện dễ dàng và thuận lợi theo hạn mới.
+
+Đối với hộ, cá nhân kinh doanh nộp thuế theo phương pháp khoán từ 2025 trở về trước đã xác định doanh thu, mức thuế khoán, bao gồm cả trường hợp hộ, cá nhân có thay đổi quy mô mà theo Thông tư 40 nói rõ là thay đổi 50% theo quy định của Luật Quản lý thuế số 38, nếu chuyển sang thực hiện khai thuế từ mùng 1/1/2026 thì cơ quan thuế không sử dụng doanh thu khai thuế năm 2026 để xác định lại nghĩa vụ thuế của các năm trước.
+
+Cũng không xử phạt vi phạm hành chính đối với nghĩa vụ thuế đã thực hiện theo phương pháp khoán, trừ trường hợp phát hiện có hành vi che giấu doanh thu dẫn đến thiếu số thuế phải nộp với những hoạt động quá khứ.
+
+Trường hợp đã khai thuế, nộp thuế theo hướng dẫn tại Thông tư 40 thì không phải điều chỉnh lại.
+
+Trường hợp chưa khai thuế sẽ thực hiện kê khai theo quy định, thủ tục mới tại Thông tư 152 và không bị xử phạt.
+
+### Sổ tay hỗ trợ hộ kinh doanh - Cẩm nang tuân thủ khai thuế, nộp thuế trong kê khai thuế Quý I/2026
+
+Đối với các giải pháp hỗ trợ đồng hành của cơ quan thuế trong kỳ kê khai đầu tiên, bà Trinh cho biết cơ quan thuế xây dựng và kịp thời ban hành sổ tay hỗ trợ hộ kinh doanh.
+
+Có thể nói cuốn sổ được biên soạn dễ hiểu và tập trung vào những nội dung thiết thực, gắn trực tiếp với hoạt động sản xuất kinh doanh của hộ kinh doanh trong thực tế và bao gồm 10 đề mục theo các nội dung của thực hiện nghĩa vụ thuế, từ đăng ký thuế, kê khai, nộp thuế, sử dụng hóa đơn điện tử hay nhiệm vụ lưu giữ hồ sơ, chứng từ hoàn thuế… Mỗi nội dung được trình bày một đề mục, rất dễ dàng tra cứu.
+
+Về 15 ngày cao điểm tuyên truyền và bắt đầu công văn của Cục Thuế đã triển khai toàn ngành từ ngày 10/3, điển hình là ra mắt cuốn sổ tay này cũng như các chương trình Cục Thuế đã triển khai theo Công văn 1393.
+
+Theo đó, cơ quan thuế các cấp tập trung nguồn lực hỗ trợ trực tiếp để các hộ có thể nắm bắt chính xác, kê khai luôn trên Cổng. Bao giờ có thể kê khai thành thạo thì mới vào cổng chính thức để không có sai sót.
+
+Tăng cường phối hợp với các tổ chức để có thể tiếp cận các giải pháp công nghệ hỗ trợ và đồng hành cùng với tất cả các hộ kinh doanh.
+
+Bà Lê Thị Chinh khẳng định, cơ quan thuế luôn đồng hành cùng hộ kinh doanh trên tinh thần hỗ trợ, hướng dẫn và tạo mọi điều kiện thuận lợi và mọi vướng mắc phát sinh đều được tiếp nhận, giải đáp kịp thời nhằm giúp hộ kinh doanh yên tâm phát triển sản xuất kinh doanh./.

@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Hộ kinh doanh có mức doanh thu hàng năm từ bao nhiêu trở xuống thì không phải nộp thuế GTGT và thuế TNCN theo Thông tư 40/2021/TT-BTC?",
+    "expected_answer": "Hộ kinh doanh, cá nhân kinh doanh có doanh thu từ 100 triệu đồng/năm trở xuống thuộc diện không phải nộp thuế GTGT và thuế TNCN.",
+    "expected_context": "Hộ kinh doanh có mức doanh thu từ 100 triệu đồng/năm trở xuống thuộc diện không phải nộp thuế GTGT và thuế TNCN theo quy định của pháp luật thuế."
+  },
+  {
+    "question": "Tỷ lệ thuế GTGT và thuế TNCN đối với hoạt động phân phối, cung cấp hàng hóa của hộ kinh doanh là bao nhiêu?",
+    "expected_answer": "Đối với phân phối, cung cấp hàng hóa: Tỷ lệ thuế GTGT là 1% và tỷ lệ thuế TNCN là 0.5%.",
+    "expected_context": "Phân phối, cung ứng hàng hóa: Tỷ lệ thuế GTGT là 1%; Tỷ lệ thuế TNCN là 0.5%."
+  },
+  {
+    "question": "Tỷ lệ tính thuế GTGT và TNCN đối với dịch vụ, xây dựng không bao thầu nguyên vật liệu là bao nhiêu?",
+    "expected_answer": "Dịch vụ, xây dựng không bao thầu nguyên vật liệu áp dụng tỷ lệ thuế GTGT 5% và tỷ lệ thuế TNCN 2%.",
+    "expected_context": "Dịch vụ, xây dựng không bao thầu nguyên vật liệu: Tỷ lệ thuế GTGT là 5%; Tỷ lệ thuế TNCN là 2%."
+  },
+  {
+    "question": "Tỷ lệ tính thuế đối với hoạt động sản xuất, vận tải, dịch vụ có gắn với hàng hóa là bao nhiêu?",
+    "expected_answer": "Hoạt động sản xuất, vận tải, dịch vụ có gắn với hàng hóa áp dụng tỷ lệ thuế GTGT là 3% và thuế TNCN là 1.5%.",
+    "expected_context": "Sản xuất, vận tải, dịch vụ có gắn với hàng hóa, xây dựng có bao thầu: Tỷ lệ thuế GTGT là 3%; Tỷ lệ thuế TNCN là 1.5%."
+  },
+  {
+    "question": "Tỷ lệ tính thuế đối với hoạt động cho thuê tài sản của cá nhân kinh doanh là bao nhiêu?",
+    "expected_answer": "Hoạt động cho thuê tài sản áp dụng tỷ lệ thuế GTGT là 5% và thuế TNCN là 5%.",
+    "expected_context": "Hoạt động cho thuê tài sản: Tỷ lệ thuế GTGT là 5%; Tỷ lệ thuế TNCN là 5%."
+  },
+  {
+    "question": "Theo Nghị định 126/2020/NĐ-CP, thời hạn nộp hồ sơ khai thuế tháng chậm nhất là ngày nào?",
+    "expected_answer": "Thời hạn nộp hồ sơ khai thuế tháng chậm nhất là ngày thứ 20 của tháng tiếp theo tháng phát sinh nghĩa vụ thuế.",
+    "expected_context": "Hồ sơ khai thuế tháng chậm nhất là ngày thứ 20 của tháng tiếp theo tháng phát sinh nghĩa vụ thuế."
+  },
+  {
+    "question": "Thời hạn nộp hồ sơ khai thuế quý chậm nhất là ngày nào theo Nghị định 126/2020/NĐ-CP?",
+    "expected_answer": "Hồ sơ khai thuế quý chậm nhất là ngày cuối cùng của tháng đầu của quý tiếp theo quý phát sinh nghĩa vụ thuế.",
+    "expected_context": "Hồ sơ khai thuế quý chậm nhất là ngày cuối cùng của tháng đầu của quý tiếp theo quý phát sinh nghĩa vụ thuế."
+  },
+  {
+    "question": "Trách nhiệm của ngân hàng thương mại trong việc phối hợp với cơ quan quản lý thuế là gì?",
+    "expected_answer": "Ngân hàng thương mại có trách nhiệm cung cấp thông tin tài khoản thanh toán của người nộp thuế và khấu trừ, nộp thay thuế cho nhà cung cấp nước ngoài.",
+    "expected_context": "Ngân hàng thương mại có trách nhiệm cung cấp thông tin tài khoản thanh toán của người nộp thuế cho cơ quan thuế. Thực hiện khấu trừ, nộp thay nghĩa vụ thuế đối với nhà cung cấp nước ngoài."
+  },
+  {
+    "question": "Những trường hợp nào cơ quan thuế thực hiện ấn định thuế đối với người nộp thuế vi phạm?",
+    "expected_answer": "Cơ quan thuế ấn định thuế khi người nộp thuế không đăng ký thuế, không nộp tờ khai, nộp tờ khai không đầy đủ/chính xác, không xuất trình sổ sách kế toán, hoặc có dấu hiệu che giấu doanh thu thực tế.",
+    "expected_context": "Cơ quan quản lý thuế thực hiện ấn định thuế trong các trường hợp: Không đăng ký thuế, không nộp hồ sơ khai thuế; Nộp hồ sơ khai thuế không đầy đủ, không chính xác; Không xuất trình chứng từ, sổ kế toán khi kiểm tra; Có dấu hiệu che giấu doanh thu kinh doanh thực tế."
+  },
+  {
+    "question": "Đối tượng nào bắt buộc phải sử dụng hóa đơn điện tử khởi tạo từ máy tính tiền kết nối dữ liệu với cơ quan thuế?",
+    "expected_answer": "Hộ kinh doanh nộp thuế theo phương pháp kê khai, cung cấp hàng hóa, dịch vụ trực tiếp đến người tiêu dùng (bán lẻ, ăn uống, dịch vụ) bắt buộc dùng hóa đơn điện tử khởi tạo từ máy tính tiền.",
+    "expected_context": "Hộ kinh doanh nộp thuế theo phương pháp kê khai, hộ kinh doanh cung cấp dịch vụ trực tiếp đến người tiêu dùng (bán lẻ, ăn uống, dịch vụ) phải sử dụng hóa đơn điện tử khởi tạo từ máy tính tiền có kết nối chuyển dữ liệu điện tử với cơ quan thuế."
+  },
+  {
+    "question": "Mức xử phạt đối với hành vi trốn thuế, gian lận thuế theo Luật Quản lý thuế số 38/2019/QH14 là bao nhiêu?",
+    "expected_answer": "Hành vi trốn thuế, gian lận thuế bị xử phạt từ 1 đến 3 lần số tiền thuế trốn.",
+    "expected_context": "Hành vi trốn thuế, gian lận thuế bị xử phạt từ 1 đến 3 lần số tiền thuế trốn."
+  },
+  {
+    "question": "Mức tính tiền chậm nộp tiền thuế theo quy định hiện hành là bao nhiêu?",
+    "expected_answer": "Tiền chậm nộp thuế được tính theo mức 0.03%/ngày trên số tiền thuế chậm nộp.",
+    "expected_context": "Hành vi chậm nộp tiền thuế phải nộp tiền chậm nộp theo mức 0.03%/ngày tính trên số tiền thuế chậm nộp."
+  },
+  {
+    "question": "Lộ trình cải cách thuế đối với hộ kinh doanh từ năm 2026 có điểm gì mới nổi bật?",
+    "expected_answer": "Từ 01/01/2026, dự kiến bãi bỏ phương pháp thuế khoán và chuyển sang kê khai theo doanh thu thực tế, đồng thời nâng ngưỡng doanh thu chịu thuế.",
+    "expected_context": "từ 01/01/2026 bỏ thuế khoán, chuyển sang kê khai theo doanh thu thực tế; nâng ngưỡng chịu thuế với hộ kinh doanh."
+  },
+  {
+    "question": "Sàn thương mại điện tử có nghĩa vụ gì trong việc quản lý thuế đối với cá nhân kinh doanh trên sàn?",
+    "expected_answer": "Sàn thương mại điện tử có trách nhiệm cung cấp thông tin doanh thu, giao dịch và thực hiện khấu trừ, kê khai nộp thuế thay cho người bán hàng.",
+    "expected_context": "Tổ chức cung cấp dịch vụ sàn thương mại điện tử có trách nhiệm cung cấp thông tin doanh thu, giao dịch của các bên bán hàng cho cơ quan thuế định kỳ."
+  },
+  {
+    "question": "Cá nhân kinh doanh thương mại điện tử có thể ủy quyền nộp thuế như thế nào?",
+    "expected_answer": "Cá nhân kinh doanh TMĐT có thể tự đăng ký, kê khai nộp thuế hoặc ủy quyền cho tổ chức, sàn thương mại điện tử khấu trừ và nộp thay.",
+    "expected_context": "có nghĩa vụ tự đăng ký, khai và nộp thuế hoặc ủy quyền cho tổ chức, sàn thương mại điện tử khấu trừ và nộp thay."
+  }
+]
